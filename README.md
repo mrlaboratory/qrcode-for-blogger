@@ -3,6 +3,10 @@ How about if someone can scan your website link
 This script of mine will give you that service
 How To use this Script ? ??
 
+# Demo
+https://mrlaboratory.github.io/qrcode-for-blogger/
+
+
 #1 you can use this script to any blogger site 
 #2 you can easily use this script
 
