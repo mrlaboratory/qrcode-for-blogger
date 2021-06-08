@@ -1,4 +1,4 @@
-# qrcode-for-blogger
+# QRcode-for-blogger
 How about if someone can scan your website link
 This script of mine will give you that service
 How To use this Script ? ??
@@ -10,7 +10,7 @@ https://mrlaboratory.github.io/qrcode-for-blogger/
 #1 you can use this script to any blogger site 
 #2 you can easily use this script
 
-How to use this script
+# How to use this script
 First install that qjuery Inside the head
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
  
@@ -27,6 +27,7 @@ If you do not understand then read this article
 https://www.mrlaboratory.info/2021/06/add-qr-scanner-code-script-to-your.html
 thanks @@@@@@
 
-contact with me for make  any js script 
+# Contact with me for make  any js script 
 facebook.com/mrlaboratory
 facebook.com/mdmijanurrahaman.mr
+email : mrlaboratory23@gmail.com
