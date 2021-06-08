@@ -14,7 +14,7 @@ First install that qjuery Inside the head
   <script src=" https://mrlaboratory.github.io/qrcode-for-blogger/qrmr.js"></script>
 
 Now you can put this code in the place where you can put the scan code
-<div class='mrpostscan'></div>
+//  <div class='mrpostscan'></div>
 
 
 ok done ... 
